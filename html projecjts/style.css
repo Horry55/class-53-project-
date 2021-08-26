@@ -1,0 +1,31 @@
+
+.all{
+    display:flex ;
+     flex:1;
+    justify-content:space-evenly;
+;
+}
+
+.grid {
+    
+border: 2px solid rgb(235, 233, 255);
+background-color: rgb(255, 243, 204);
+border-radius: 20px; 
+margin: 20px;
+padding: 20px;
+width: 50%;
+font-family:fantasy;
+font-weight: 400;
+color: rgb(25, 216, 191);
+
+}
+body{
+  background-image:url('background.jpg');
+
+}
+.origami{
+    background-image: url('images.jpg');
+    color: cornsilk;
+    font-family:cursive;
+    font-weight: 400;
+}
